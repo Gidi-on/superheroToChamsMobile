@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "src",
+    "noImplicitAny": true,
+    "module": "ES6",
+    "lib": ["es6", "dom"],
+    "target": "ES6",
+    "jsx": "react",
+    "allowJs": true,
+    "pretty": true,
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules", "./dist"]
+}
